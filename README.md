@@ -1,4 +1,4 @@
-# -touchpal-.ipa
+# 触宝输入法-touchpal-v2.8.0-v3.3.0.ipa
 v2.8.0 from iphone 5
 v3.3.0 from appstore(imazing)
 
